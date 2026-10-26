@@ -1,0 +1,8 @@
+{
+  "name": "zh-dev-writing",
+  "description": "中文代码注释与中文界面文案的写作规范",
+  "version": "1.0.0",
+  "author": { "name": "FooFishes" },
+  "repository": "https://github.com/FooFishes/zh-dev-writing",
+  "license": "MIT"
+}
